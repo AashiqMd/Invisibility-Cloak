@@ -9,3 +9,9 @@ In this simple OpenCV project, we were able to learn the following concepts:
 5. Running morphological processes such as Open and Dilate
 6. Bitwise commands on nupmy arrays.
 7. Real time input recording using waitKey(1) and ord('q')
+
+Tip: 
+To upload local images to Readme.md
+Go to Issues Tab and Create a new issue.
+Drag and drop the image there
+Copy the URL and paste it here.
